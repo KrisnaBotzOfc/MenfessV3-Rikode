@@ -5,9 +5,9 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
+return`━━━❲ KrisnaBotz ❳━━━
 ┏━━━━━━━━━━━━━
-┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
+┣━( User Info )
 ┃▤ ID : @${sender.split('@')[0]}
 ┃▤ Nama : ${namenya}
 ┃▤ Premium : ${premnya}
@@ -723,13 +723,13 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+*Payment Dana*
+Number: 08871744663
+A/N: Krisna store
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 0871744663
+A/N: KrisnaBotz
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
- • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Nama:* Krisna Official 
+ • *Umur:* 14 tahun(esceh)
+ • *Hoby:* Turu/Game/recode/bikin bot
+ • *Askot:* Sunda
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 08871744663
+ • *Youtube:* ItzTopBridgTzy5 
+ • *Github:* KrisnaBotzOfc
  `
 }
